@@ -60,7 +60,7 @@ Cordialement,
 - [SUD Chimie](https://sud-chimie-solidaires.org) : chimie et pharmacie
 - [SUD Énergie](https://www.sudenergie.org) : électricité, gaz
 - [Solidaires Informatique](https://solidairesinformatique.org/) : le numérique, le conseil et le jeu vidéo, y compris sous-traitants et indépendants (Syntec)
-- [SUD PTT](https://www.sudptt.org/) : La Poste, Orange et leurs filiales, les autres opérateurs, la distribution directe (Mediapost, Adrexo) et les centres d’appels
+- [SUD PTT](https://www.sudptt.org/) : La Poste, Orange et leurs filiales, les autres opérateurs, la distribution directe et les centres d’appels
 
 ## Privé : commerce, banque, services
 
