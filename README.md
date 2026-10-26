@@ -5,7 +5,7 @@ Sommaire :
 1. [Sites des syndicats en France](#Sites-des-syndicats-en-France)
 2. [Comment faire grève quand on est apprenti](#Comment-faire-grève-quand-on-est-apprenti)
 3. [Toutes les branches de l'Union Syndicale Solidaires](#Toutes-les-branches-de-l-'Union-Syndicale-Solidaires)
-4. [Les meilleurs slogans en manif](#Les-meilleurs-slogans-en-manif)
+4. [Slogans en manif](#Slogans-en-manif)
 
 # Sites des syndicats en France
 - [CGT](https://www.cgt.fr/)
@@ -102,4 +102,4 @@ Le tout est coordonné par l’Union SUD Transports
 - Solidaires Étudiant·es
 - UNIRS : retraités
 
-# Les meilleurs slogans en manif
+# Slogans en manif
