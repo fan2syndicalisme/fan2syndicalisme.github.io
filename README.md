@@ -56,28 +56,27 @@ Cordialement,
 # Toutes les branches de l'Union Syndicale Solidaires
 
 ## Privé : industrie, énergie, numérique
-- SUD Industrie : l’industrie au sens large (métallurgie, agroalimentaire, bâtiment, logistique industrielle, papeterie…)
-- SUD Chimie : chimie et pharmacie
-- SUD Énergie : électricité, gaz
-- Solidaires Informatique : le numérique, le conseil et le jeu vidéo, y compris sous-traitants et indépendants (Syntec)
-- SUD PTT : La Poste, Orange et leurs filiales, les autres opérateurs, la distribution directe (Mediapost, Adrexo) et les centres d’appels
+- [SUD Industrie](https://sudindustrie.org) : l’industrie au sens large (métallurgie, agroalimentaire, bâtiment, logistique industrielle, papeterie…)
+- [SUD Chimie](https://sud-chimie-solidaires.org) : chimie et pharmacie
+- [SUD Énergie](https://www.sudenergie.org) : électricité, gaz
+- [Solidaires Informatique](https://solidairesinformatique.org/) : le numérique, le conseil et le jeu vidéo, y compris sous-traitants et indépendants (Syntec)
+- [SUD PTT](https://www.sudptt.org/) : La Poste, Orange et leurs filiales, les autres opérateurs, la distribution directe (Mediapost, Adrexo) et les centres d’appels
 
 ## Privé : commerce, banque, services
 
-- SUD Commerces et Services : commerce (fédération en conflit interne avec Solidaires depuis 2024)
+- [SUD Commerces et Services](https://www.sudcommercesetservices.org/) : commerce (fédération en conflit interne avec Solidaires depuis 2024)
 - SUD Fnac, SUD Solidaires BHV : syndicats d’entreprise
-- SUD-Solidaires BPCE : toutes les entreprises du groupe Banque populaire Caisse d’épargne
-- SUD CAM : Crédit Agricole et MSA
-- Solidaires Assurances : compagnies d’assurance, courtage, mutuelles d’assurance, agents généraux
-- SNABF Solidaires : Banque de France
-- SUD Solidaires Prévention et Sécurité : toutes les entreprises de la sécurité privée
-- SUD Intérim : implanté chez Adecco et Manpower
+- [SUD-Solidaires BPCE](https://www.sudbpce.com/) : toutes les entreprises du groupe Banque populaire Caisse d’épargne
+- [SUD CAM](https://www.sudcam.fr/) : Crédit Agricole et MSA
+- [Solidaires Assurances](https://interne.solidaires.org/se-syndiquer/les-syndicats/solidaires-assurances-assistance/) : compagnies d’assurance, courtage, mutuelles d’assurance, agents généraux
+- [SNABF Solidaires](https://interne.solidaires.org/se-syndiquer/les-syndicats/snabf-solidaires/) : Banque de France
+- [SUD Solidaires Prévention et Sécurité](https://sud-solidaires-prevention-securite.fr/) : toutes les entreprises de la sécurité privée
 
 ## Transports
 
-- SUD-Rail : SNCF, filiales et sous-traitants du ferroviaire
-- SUD-Solidaires Transports routiers : entreprises du transport routier
-- SUD Aérien : aérien
+- [SUD-Rail](https://sudrail.fr/) : SNCF, filiales et sous-traitants du ferroviaire
+- [SUD-Solidaires Transports routiers](https://federationsudsolidairestransportsroutiers.fr/) : entreprises du transport routier
+- [SUD Aérien](https://www.sudaerien.fr/) : aérien
 - Solidaires Groupe RATP : RATP
 - SUD Transports urbains : surtout des syndicats locaux par réseau (Toulouse, Strasbourg, Mulhouse…)
 Le tout est coordonné par l’Union SUD Transports
