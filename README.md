@@ -8,13 +8,13 @@ Sommaire :
 
 # Sites des syndicats en France
 - [CGT](https://www.cgt.fr/)
-- [Solidaires](www.solidaires.org)
-- [FO](www.force-ouvriere.fr)
-- [CFDT](www.cfdt.fr)
-- [Unsa](www.unsa.org)
-- [FSU](www.fsu.fr)
-- [CFE-CGC](www.cfecgc.org)
-- [CFTC](www.cftc.fr)
+- [Solidaires](https://www.solidaires.org)
+- [FO](https://www.force-ouvriere.fr)
+- [CFDT](https://www.cfdt.fr)
+- [Unsa](https://www.unsa.org)
+- [FSU](https://www.fsu.fr)
+- [CFE-CGC](https://www.cfecgc.org)
+- [CFTC](https://www.cftc.fr)
 
 # Comment faire grève quand on est apprenti
 
