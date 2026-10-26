@@ -34,9 +34,24 @@ Il faut avoir un préavis de grève, déposé au moins 5 jours avant par un synd
 
 ## En période de cours : tu peux faire grève ! Néanmoins si tu rates un examen, le CFA n’est pas obligé de faire de rattrapages
 
+Concrètement faire grève équivaut à mettre son contrat de travail en pause le temps de la grève, ce qui suspend la rémunération pendant le temps non travaillé (retenue sur le salaire). Cette retenue doit être proportionnelle au temps de grève (sauf pour la fonction publique de l’État). La grève n’est pas mentionnée sur ton bulletin de salaire.
+
 Généralement, ce qu’on recommande quand on fait grève, c’est de prévenir l’employeur et le CFA (si c’est pendant les cours), en précisant la date et la durée de grève, de sorte que cette absence ne soit pas vue comme injustifiée.
 
-Concrètement faire grève équivaut à mettre son contrat de travail en pause le temps de la grève, ce qui suspend la rémunération pendant le temps non travaillé (retenue sur le salaire). Cette retenue doit être proportionnelle au temps de grève (sauf pour la fonction publique de l’État). La grève n’est pas mentionnée sur ton bulletin de salaire.
+### Exemple de mail qui peut être envoyé : 
+
+```text
+Bonjour [NOM],
+Je vous informe que je participerai au mouvement de grève du [date], [toute la journée / de [heure] à [heure]], dans le cadre de l'appel à la grève [national interprofessionnel / de [syndicat ou intersyndicale]].
+
+Je reprendrai le travail le [date] à [heure].
+
+Cordialement,
+[Prénom/NOM]
+
+```
+
+
 
 # Toutes les branches de l'Union Syndicale Solidaires
 
