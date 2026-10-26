@@ -7,7 +7,7 @@ Sommaire :
 3. [Toutes les branches de l'Union Syndicale Solidaires](#Toutes-les-branches-de-l-'Union-Syndicale-Solidaires)
 
 # Sites des syndicats en France
-- [CGT](www.cgt.fr)
+- [CGT](https://www.cgt.fr/)
 - [Solidaires](www.solidaires.org)
 - [FO](www.force-ouvriere.fr)
 - [CFDT](www.cfdt.fr)
