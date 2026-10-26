@@ -2,10 +2,10 @@
 
 Sommaire : 
 
-1. [Sites des syndicats en France](#Sites-des-syndicats-en-France)
-2. [Comment faire grève quand on est apprenti](#Comment-faire-grève-quand-on-est-apprenti)
-3. [Toutes les branches de l'Union Syndicale Solidaires](#Toutes-les-branches-de-l-'Union-Syndicale-Solidaires)
-4. [Slogans en manif](#Slogans-en-manif)
+1. [Sites des syndicats en France](#sites-des-syndicats-en-France)
+2. [Comment faire grève quand on est apprenti](#comment-faire-grève-quand-on-est-apprenti)
+3. [Toutes les branches de l'Union Syndicale Solidaires](#toutes-les-branches-de-l-'Union-Syndicale-Solidaires)
+4. [Slogans en manif](#slogans-en-manif)
 
 # Sites des syndicats en France
 - [CGT](https://www.cgt.fr/)
