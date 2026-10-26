@@ -5,6 +5,7 @@ Sommaire :
 1. [Sites des syndicats en France](#Sites-des-syndicats-en-France)
 2. [Comment faire grève quand on est apprenti](#Comment-faire-grève-quand-on-est-apprenti)
 3. [Toutes les branches de l'Union Syndicale Solidaires](#Toutes-les-branches-de-l-'Union-Syndicale-Solidaires)
+4. [Les meilleurs slogans en manif](#Les-meilleurs-slogans-en-manif)
 
 # Sites des syndicats en France
 - [CGT](https://www.cgt.fr/)
@@ -17,6 +18,25 @@ Sommaire :
 - [CFTC](https://www.cftc.fr)
 
 # Comment faire grève quand on est apprenti
+
+En étant apprenti-e, tu as les mêmes droits que les autres salarié-es, dont le droit de grève.
+C’est quoi la grève ? C’est un arrêt total de travail collectif pour faire valoir nos revendications professionnelles.
+
+### Dans le privé, tu peux grève si
+Vous êtes au moins deux salarié-es de votre entreprise à faire grève OU il y a un appel à la grève au niveau national, dans ton secteur ou interprofessionnel
+
+### Dans les services publics :
+Il faut avoir un préavis de grève, déposé au moins 5 jours avant par un syndicat. Certains postes des secteurs transports terrestres/aériens, écoles élémentaires/maternelles doivent individuellement déclarer leur intention de faire grève 48h avant (renseigne toi auprès de ton employeur si tu as un doute).
+
+**Comment savoir s’il y a un appel à la grève ? Renseigne-toi auprès des syndicats de ta branche ou de l’intersyndicale.**
+
+## En période d’entreprise : tu peux faire grève !
+
+## En période de cours : tu peux faire grève ! Néanmoins si tu rates un examen, le CFA n’est pas obligé de faire de rattrapages
+
+Généralement, ce qu’on recommande quand on fait grève, c’est de prévenir l’employeur et le CFA (si c’est pendant les cours), en précisant la date et la durée de grève, de sorte que cette absence ne soit pas vue comme injustifiée.
+
+Concrètement faire grève équivaut à mettre son contrat de travail en pause le temps de la grève, ce qui suspend la rémunération pendant le temps non travaillé (retenue sur le salaire). Cette retenue doit être proportionnelle au temps de grève (sauf pour la fonction publique de l’État). La grève n’est pas mentionnée sur ton bulletin de salaire.
 
 # Toutes les branches de l'Union Syndicale Solidaires
 
@@ -82,4 +102,4 @@ Le tout est coordonné par l’Union SUD Transports
 - Solidaires Étudiant·es
 - UNIRS : retraités
 
-
+# Les meilleurs slogans en manif
