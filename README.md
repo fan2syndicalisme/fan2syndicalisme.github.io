@@ -103,3 +103,135 @@ Le tout est coordonné par l’Union SUD Transports
 - UNIRS : retraités
 
 # Slogans en manif
+
+
+```text
+Pas de fachos dans nos quartiers
+Pas de quartiers pour les fachos !
+```
+
+```text
+La méditerranée est un cimetière
+De l’air, de l’air, ouvrez les frontières !
+```
+
+```text
+Ni patron, ni patrie, ni patriarcat,
+De cette société là, on en veut pas,
+On la combat ! 
+```
+
+```text
+Police nationale,
+Milice du capitale ! 
+```
+
+```text
+Nous sommes fortes,
+Nous sommes fières,
+Et féministes et radicales et en colère!
+```
+
+```text
+So so solidarité, avec les travailleurs du monde entier
+```
+
+```text
+On est là, on est là
+Même si Macron ne veut pas, nous on est là,
+Pour l'honneur des travailleurs, et pour un monde meilleur,
+Même si Macron ne veut pas nous on est là
+```
+
+```text
+La retraite à 60 ans,
+On s'est battu pour la gagner,
+On se battra pour la garder 
+```
+
+```text
+Macron nous fait la guerre et sa police aussi
+Mais on reste déters pour bloquer le pays,
+Macron nous fait la guerre,
+et sa police aussi,
+mais on reste deters
+pour bloquer le pays (bloquer le pays)
+```
+
+```text
+Tout est à nous !
+Rien n’est à eux !
+Tout ce qu’ils ont ils l’ont volé,
+Partage des richesses,
+Partage du temps de travail,
+Ou sinon ça va péter 
+```
+
+```text
+De l'argent, il y en a dans les caisses du patronat !
+Et l'argent, on le prendra dans les caisses du patronat !
+```
+
+```text
+Où est-ce qu'on va ? Au combat ! 
+Quelle arme on a ? Le syndicat
+De lutte, de classe et autogestionnaire ! 
+```
+
+```text
+Macron t'es foutu, la jeunesse est dans la rue 
+```
+
+```text
+Et la rue elle est à qui ? (au mégaphone)
+Elle est à nous ? (le cortège)
+Et la rue elle est à qui ? (au mégaphone)
+Elle est à nous ? (le cortège)
+A qui ? (au mégaphone)
+A nous ! (le cortège)
+A qui ? (au mégaphone)
+A nous ! (le cortège)
+A qui ? A qui ? A Qui ? (au mégaphone)
+A nous ! A nous ! A nous ! (le cortège)
+```
+
+```text
+Des bourses ! Des Bourses !
+Ou on brule le CROUS !
+```
+
+```text
+C’est pas les étudiants, les cheminots, 
+les infirmières ! 
+C’est le capitalisme 
+qui nous coute cher !
+```
+
+```text
+Et pierre par pierre
+Et mur par mur
+Nous détruirons les centres de rétention
+```
+
+
+```text
+Gaza, Gaza, Strasbourg est avec toi
+```
+
+```text
+Free free Palestine
+```
+
+```text
+Israël assassine les enfants de Palestine
+```
+
+```text
+Vive la lutte du peuple palestinien
+```
+
+```text
+Palestine vivra, Palestine vaincra
+```
+
+
