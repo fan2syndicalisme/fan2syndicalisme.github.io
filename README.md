@@ -248,5 +248,8 @@ Vive la lutte du peuple palestinien
 ```text
 Palestine vivra, Palestine vaincra
 ```
-
+```text
++ de place au lycée pour pas finir policier
++ de place à la fac pour pas finir à la bac
+```
 
