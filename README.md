@@ -77,44 +77,43 @@ Cordialement,
 - [SUD-Rail](https://sudrail.fr/) : SNCF, filiales et sous-traitants du ferroviaire
 - [SUD-Solidaires Transports routiers](https://federationsudsolidairestransportsroutiers.fr/) : entreprises du transport routier
 - [SUD Aérien](https://www.sudaerien.fr/) : aérien
-- Solidaires Groupe RATP : RATP
+- [Solidaires Groupe RATP](https://solidaires-grouperatp.org/) : RATP
 - SUD Transports urbains : surtout des syndicats locaux par réseau (Toulouse, Strasbourg, Mulhouse…)
 Le tout est coordonné par l’Union SUD Transports
 
 ## Santé, social, culture, éducation privée
 
-- SUD Santé Sociaux : santé, social, médico-social, public comme privé, y compris l’hôpital public
-- SUD Protection sociale : Sécurité sociale, retraites complémentaires, mutualité
-- SUD Culture et Médias : intermittents, ministère de la Culture, entreprises, établissements et associations de l’audiovisuel et de la culture
-- SNJ : journalistes
-- ASSO-Solidaires : salariés des associations
-- SUNDEP : enseignement privé
-- SUD FPA : formation professionnelle des adultes (AFPA)
-- SUD Emploi : France Travail
+- [SUD Santé Sociaux](https://www.sudsantesociaux.fr/) : santé, social, médico-social, public comme privé, y compris l’hôpital public
+- [SUD Protection sociale](https://sud-protection-sociale.fr/) : Sécurité sociale, retraites complémentaires, mutualité
+- [SUD Culture](https://sud-culture.org/) : intermittents, ministère de la Culture, entreprises, établissements et associations de l’audiovisuel et de la culture
+- [SNJ](https://www.snj.fr/) : journalistes
+- [ASSO-Solidaires](https://syndicat-asso.fr/) : salariés des associations
+- [SUNDEP](https://sundep.org/) : enseignement privé
+- [SUD FPA](https://www.sudfpa.net/) : formation professionnelle des adultes (AFPA)
 
 ## Fonction publique d’État
 
-- SUD Éducation : Éducation nationale et enseignement supérieur
-- SUD Recherche EPST : recherche publique
-- Solidaires Finances Publiques, Solidaires Douanes, Solidaires CCRF & SCL, SUD INSEE, SUD Centrale : ministères économiques et financiers
-- SUD Intérieur : ministère de l’Intérieur
-- Solidaires Justice : ministère de la Justice
-- SUD Travail Affaires sociales : ministère du Travail
-- Solidaires Jeunesse et Sports
-- SUD Rural Territoires : ministère de l’Agriculture
-- SNUPFEN : forêts (ONF)
-- Solidaires Météo
-- Solidaires IDD (Écologie), Solidaires Autorité de la concurrence, Solidaires FSIE (institutions de l’État)
+- [SUD Éducation](https://www.sudeducation.org/) : Éducation nationale et enseignement supérieur
+- [SUD Recherche](https://www.sud-recherche.org/SPIPprod/) : recherche publique
+- [Solidaires Finances Publiques](https://solidairesfinancespubliques.org/), [Solidaires Douanes](https://solidaires-douanes.org/), [Solidaires CCRF & SCL](https://solidaires-ccrf-scl.org/), [SUD INSEE](https://www.sudinsee.org/)
+- [SUD Intérieur](https://sudinterieur.fr/) : ministère de l’Intérieur
+- [Solidaires Justice](https://www.solidaires-justice.fr/) : ministère de la Justice
+- [SUD Travail Affaires sociales](https://sud-travail-affaires-sociales.org/?app/d499910183&debut_articles=10) : ministère du Travail
+- [Solidaires Jeunesse et Sports](https://solidaires-jeunesse-sports.org/)
+- [SUD Rural Territoires](https://www.sud-rural.org/) : ministère de l’Agriculture
+- [SNUPFEN](https://www.snupfen.org/) : forêts (ONF)
+- [Solidaires Météo](https://www.solidaires-meteo.org/)
+- [Solidaires IDD](https://solidairesidd.com/) (Écologie), [Solidaires FSIE](https://interne.solidaires.org/se-syndiquer/les-syndicats/fsie-federation-solidaires-des-institutions-de-letat/) (institutions de l’État)
 
 ## Fonction publique territoriale
 
-- SUD Collectivités territoriales : mairies, départements, régions
-- SUD SDIS : pompiers
+- [SUD Collectivités territoriales](https://www.sud-ct.org/) : mairies, départements, régions
+- [SUD SDIS](https://sudsdis-national.net/) : pompiers
 
 ## Hors travail
 
-- Solidaires Étudiant·es
-- UNIRS : retraités
+- [Solidaires Étudiant-es](https://www.solidaires-etudiant-e-s.org/)
+- [UNIRS](https://interne.solidaires.org/se-syndiquer/les-syndicats/unirs-union-nationale-interprofessionnelle-des-retraite-es-solidaires/?page-structures-actualites=1) : retraités
 
 # Slogans en manif
 
